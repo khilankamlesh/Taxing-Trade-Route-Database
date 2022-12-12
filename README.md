@@ -2,7 +2,7 @@
 ## Prerequisites ##
 This project was created using PostgreSQL.
 
-This was the second of three projects as part of the Full Stack Applicaiton Development module at the University of Birmingham, focusing on SQL, databases and back-end development.
+This was the second of three projects as part of the Full Stack Application Development module at the University of Birmingham, focusing on SQL, databases and back-end development.
 
 ## Goal ##
 The goals of this project are to:
